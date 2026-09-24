@@ -8,13 +8,13 @@
     <td align="center">
       <img
         width="95%"
-        src="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=hasindu-nagolla&count_private=true&show_icons=true&theme=github_dark&custom_title=Hmm%2C+interesting&include_all_commits=true&hide_border=true"
+        src="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=lakzexe&count_private=true&show_icons=true&theme=github_dark&custom_title=Hmm%2C+interesting&include_all_commits=true&hide_border=true"
       />
     </td>
     <td align="center">
       <img
         width="95%"
-        src="https://github-readme-streak-stats-eight.vercel.app?user=hasindu-nagolla&theme=github-dark-blue&hide_border=true"
+        src="https://github-readme-streak-stats-eight.vercel.app?user=lakzexe&theme=github-dark-blue&hide_border=true"
       />
     </td>
   </tr>
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasindu-nagolla&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lakzexe&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Agentic_AI-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
